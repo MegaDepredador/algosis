@@ -10797,3 +10797,5 @@ Chrome utilizado por Perchance:
 C:\Program Files\Google\Chrome\Application\chrome.exe
 Perfil utilizado por Perchance:
 C:\Users\KERNEL\AppData\Local\Google\Chrome\PerchanceProfile
+Pestaña de Muah cerrada.
+Muah se desconectó.
